@@ -1,0 +1,7 @@
+{
+    "version" : "JE_1_16_5",
+    "blocks_enabled": [{
+        "falling_blocks" : 1
+    }],
+    "save_location": ""
+}
